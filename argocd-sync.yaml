@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/AnkitJodhani/kube_manifest-4thWeekOfCloudOps.git
+    repoURL: https://github.com/Oluwatidamilola/k_manifest.git
     targetRevision: HEAD
     path: menifest
   destination: 
