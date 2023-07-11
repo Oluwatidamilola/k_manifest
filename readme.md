@@ -5,10 +5,6 @@
 ## 🏠 Architecture
 ![Architecture of the application](architecture.gif)
 
-## 💶 Notes and Links
-**I've divided my Blog into four parts**
-this is the 3rd part of the project. Please go through below blog to get more idea
-
 ## 🔶 Story
 - When CircleCI notices any changes in the application code, it starts executing the jobs that we have set up. There are a total of four jobs:
 
